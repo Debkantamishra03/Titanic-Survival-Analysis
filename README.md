@@ -52,7 +52,7 @@ The Titanic dataset is a classic dataset used to understand survival factors dur
 
 ## Author
 
-  - Debkanta Mishra
-  - Email:
-  - LinkedIn: https://linkedin.com/in/your-profile
-  - GitHub: https://github.com/yourusername
+   - Debkanta Mishra
+   - Email: debkanta.mishra3@gmail.com
+   - LinkedIn: www.linkedin.com/in/debkanta-mishra
+   - GitHub: https://github.com/Debkantamishra03
