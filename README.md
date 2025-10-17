@@ -35,7 +35,7 @@ The Titanic dataset is a classic dataset used to understand survival factors dur
   ### Clone the repository:
 
       git clone https://github.com/Debkantamishra03/Titanic-Survival-Analysis.git
-      cd customer-churn-analysis 
+      cd Titanic-Survival-Analysis 
       
   ### Install dependencies:
 
